@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sorting-visualizer.git/static/css/main.62fe5181.chunk.css",
+    "main.js": "/sorting-visualizer.git/static/js/main.c0c0a152.chunk.js",
+    "main.js.map": "/sorting-visualizer.git/static/js/main.c0c0a152.chunk.js.map",
+    "runtime-main.js": "/sorting-visualizer.git/static/js/runtime-main.95a935aa.js",
+    "runtime-main.js.map": "/sorting-visualizer.git/static/js/runtime-main.95a935aa.js.map",
+    "static/js/2.16ee61c6.chunk.js": "/sorting-visualizer.git/static/js/2.16ee61c6.chunk.js",
+    "static/js/2.16ee61c6.chunk.js.map": "/sorting-visualizer.git/static/js/2.16ee61c6.chunk.js.map",
+    "index.html": "/sorting-visualizer.git/index.html",
+    "precache-manifest.3ab9974a5c337b61a1d6cb0937a5a0f8.js": "/sorting-visualizer.git/precache-manifest.3ab9974a5c337b61a1d6cb0937a5a0f8.js",
+    "service-worker.js": "/sorting-visualizer.git/service-worker.js",
+    "static/css/main.62fe5181.chunk.css.map": "/sorting-visualizer.git/static/css/main.62fe5181.chunk.css.map",
+    "static/js/2.16ee61c6.chunk.js.LICENSE.txt": "/sorting-visualizer.git/static/js/2.16ee61c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95a935aa.js",
+    "static/js/2.16ee61c6.chunk.js",
+    "static/css/main.62fe5181.chunk.css",
+    "static/js/main.c0c0a152.chunk.js"
+  ]
+}
